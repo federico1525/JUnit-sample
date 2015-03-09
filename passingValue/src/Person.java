@@ -1,6 +1,4 @@
-/**
- * Created by fede on 3/8/15.
- */
+
 public class Person {
 
     String name;
